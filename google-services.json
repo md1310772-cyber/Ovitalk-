@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815099712110",
+    "project_id": "ovitalk-b6d8f",
+    "storage_bucket": "ovitalk-b6d8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815099712110:android:caa3e7417fef5fe7de8c7f",
+        "android_client_info": {
+          "package_name": "com.ovitalk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUVk24chDOoU-ur9EikuzKSufhjqNs0ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
